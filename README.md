@@ -32,7 +32,7 @@ Meu próximo passo é contribuir com **projetos open source**, aprimorar meus co
 
 ### 🌐 **Conecte-se comigo**
 - [💼 LinkedIn](https://www.linkedin.com/in/oFelipeNeves)  
-- [📄 Currículo](https://drive.google.com/file/d/1llrYZIYJlbfabcgDcHN8BKSKByznrwb5/view?usp=drive_link)  
+- [📄 Currículo](https://drive.google.com/file/d/17CfuA4uMCDybaNEFape0LFQVyjxR3Wf2/view?usp=drive_link)  
 
 ---
 
