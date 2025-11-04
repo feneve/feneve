@@ -2,7 +2,7 @@
 
 **Desenvolvedor Back-end | Estudante de ADS**
 
-Sou Felipe Neves Souza, 21 anos, baiano residente em São Paulo. Apaixonado por tecnologia e focado em construir uma carreira sólida em desenvolvimento de software, estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi. Meu objetivo é me tornar um desenvolvedor completo, com foco principal em **Back-end**, mas com grande interesse em **FullStack**.
+Sou Felipe Neves Souza, tenho 21 anos e sou  apaixonado por tecnologia e focado em construir uma carreira sólida em desenvolvimento de software, estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi. Meu objetivo é me tornar um desenvolvedor completo, com foco principal em **Back-end**, mas com grande interesse em **FullStack**.
 
 Nos meus estudos, tenho me dedicado a **Java**, com foco em **Programação Orientada a Objetos (POO)** e **ArrayList**, para construir uma base sólida para projetos futuros. Meus projetos iniciais incluem um **mini CRUD** e uma **calculadora**, que me ajudaram a consolidar minha lógica de programação e meus conhecimentos em POO. Estou ansioso para aprofundar meus conhecimentos em **SpringBoot** e **bancos de dados** para desenvolver aplicações mais robustas e eficientes. Acredito que a prática leva à perfeição, e por isso estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar minhas habilidades, com planos de contribuir com projetos **Open Source**.
 
