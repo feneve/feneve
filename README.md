@@ -1,23 +1,40 @@
-# Olá! 👋 Eu sou Felipe Neves
+# 👋 Olá! Eu sou **Felipe Neves**
 
-**Desenvolvedor Back-end | Estudante de ADS**
+**💻Software Engineer | Java | Spring Boot | PostgreSQL | Docker | Oracle Cloud Certified | Postman API**
 
-Sou Felipe Neves Souza, tenho 21 anos e sou  apaixonado por tecnologia e focado em construir uma carreira sólida em desenvolvimento de software, estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi. Meu objetivo é me tornar um desenvolvedor completo, com foco principal em **Back-end**, mas com grande interesse em **FullStack**.
+Sou **Felipe Neves Souza**, tenho 21 anos e sou apaixonado por tecnologia.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**, com o objetivo de construir uma carreira sólida em **desenvolvimento de software**.  
+Meu foco principal é o **Back-end**, mas também tenho grande interesse em **Full Stack** e **Computação em Nuvem (Cloud Computing)** ☁️.  
 
-Nos meus estudos, tenho me dedicado a **Java**, com foco em **Programação Orientada a Objetos (POO)** e **ArrayList**, para construir uma base sólida para projetos futuros. Meus projetos iniciais incluem um **mini CRUD** e uma **calculadora**, que me ajudaram a consolidar minha lógica de programação e meus conhecimentos em POO. Estou ansioso para aprofundar meus conhecimentos em **SpringBoot** e **bancos de dados** para desenvolver aplicações mais robustas e eficientes. Acredito que a prática leva à perfeição, e por isso estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar minhas habilidades, com planos de contribuir com projetos **Open Source**.
+Durante meus estudos, venho me dedicando ao ecossistema **Java**, aplicando conceitos de **Programação Orientada a Objetos (POO)**, **princípios de Clean Code** e **estruturas de dados** como ArrayList.  
+Entre meus primeiros projetos estão um **mini CRUD** e uma **calculadora**, que me ajudaram a consolidar a lógica de programação e a organização de código.  
 
+Atualmente, estou aprofundando meus conhecimentos em **Spring Boot**, **PostgreSQL**, **Docker** e **integração com APIs REST**, buscando desenvolver aplicações mais modernas, escaláveis e eficientes.  
+Além disso, conquistei a **certificação Oracle Cloud Infrastructure 2025 Foundations Associate**, que ampliou minha compreensão sobre **infraestrutura em nuvem, redes, IAM e governança de recursos**.  
 
-**Tecnologias que utilizo e estou aprendendo:**
+Sou um profissional **proativo**, **colaborativo** e sempre em busca de novos aprendizados.  
+Acredito que a prática constante e o aprendizado contínuo são essenciais para evoluir na área da tecnologia.  
+Meu próximo passo é contribuir com **projetos open source**, aprimorar meus conhecimentos em **DevOps** e crescer como **Engenheiro de Software**. 🚀  
 
-* **IDE:** Replit 💻
-* **Versionamento:** Git, GitHub 🐙
-* **Gerenciamento de Projetos:** Trello 📋
-* **Linguagens:** Java ☕
+---
 
-**Conecte-se comigo:**
+### 🧠 **Tecnologias que utilizo e estou aprendendo**
+- **Linguagens:** Java ☕  
+- **Frameworks:** Spring Boot 🌱  
+- **Banco de Dados:** PostgreSQL 🐘  
+- **Containers:** Docker 🐳  
+- **Cloud:** Oracle Cloud Infrastructure ☁️  
+- **Boas práticas:** Clean Code, POO, API REST  
+- **IDE:** Replit 💻  
+- **Versionamento:** Git & GitHub 🐙  
+- **Gerenciamento de Projetos:** Trello 📋  
 
-* [LinkedIn](https://www.linkedin.com/in/felipe-neves-a9298435a/) 💼
-* [Currículo](https://drive.google.com/file/d/1llrYZIYJlbfabcgDcHN8BKSKByznrwb5/view?usp=drive_link) 📄
+---
 
-Sou um profissional **proativo**, **colaborativo** e **determinado** a resolver problemas e entregar soluções de alta qualidade. Busco constantemente novos desafios e oportunidades para crescer e me destacar na área de desenvolvimento de software.
+### 🌐 **Conecte-se comigo**
+- [💼 LinkedIn](https://www.linkedin.com/in/oFelipeNeves)  
+- [📄 Currículo](https://drive.google.com/file/d/1llrYZIYJlbfabcgDcHN8BKSKByznrwb5/view?usp=drive_link)  
 
+---
+
+⭐ *“A melhor forma de aprender é colocando a mão no código.”*  
