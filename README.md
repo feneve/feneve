@@ -24,8 +24,7 @@ Meu próximo passo é contribuir com **projetos open source**, aprimorar meus co
 - **Banco de Dados:** PostgreSQL 🐘  
 - **Containers:** Docker 🐳  
 - **Cloud:** Oracle Cloud Infrastructure ☁️  
-- **Boas práticas:** Clean Code, POO, API REST  
-- **IDE:** Replit 💻  
+- **Boas práticas:** Clean Code, POO, API REST   
 - **Versionamento:** Git & GitHub 🐙  
 - **Gerenciamento de Projetos:** Trello 📋  
 
